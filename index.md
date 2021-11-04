@@ -8,7 +8,7 @@ layout: default
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[LinkedIn](https://www.linkedin.com/in/tahvo-havia-87404994), [GitHub](https://github.com/ant1passive)
 
 ## Contact
 
