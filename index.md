@@ -10,9 +10,11 @@ layout: default
 
 [LinkedIn](https://www.linkedin.com/in/tahvo-havia-87404994), [GitHub](https://github.com/ant1passive)
 
-## Contact
+## Contact & CV
 
 My email address is of the form firstname.lastname@helsinki.fi. 
+
+[Curriculum Vitae](assets/documents/cv-th.pdf)
 
 ## Courses I've Taken
 
