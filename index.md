@@ -12,7 +12,7 @@ layout: default
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is of the form firstname.lastname@helsinki.fi. 
 
 ## Courses I've Taken
 
@@ -23,5 +23,3 @@ My email address is of the form first_name.last_name@helsinki.fi.
 ## Projects
 
 ## Misc. 
-
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
