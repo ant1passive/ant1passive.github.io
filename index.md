@@ -2,9 +2,11 @@
 layout: default
 ---
 
-## Introduction
+## Hi,
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Tahvo Havia and I'm an undergraduate language technology student at the University of Helsinki. This web page documents things I've worked on, including some university courses. 
+
+Even though this page is now mostly about linguistics, my Bachelor's degree will be a BSc in mathematics, due to courses already taken. I have work history in building measurement instruments, thanks to a job I got when I was fresh out of watchmaking school. (Yes, yet another academic garden path.)
 
 ## Find me on
 
