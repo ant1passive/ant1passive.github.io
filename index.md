@@ -16,9 +16,9 @@ Even though this page is now mostly about linguistics, my Bachelor's degree will
 
 My email address is of the form firstname.lastname@helsinki.fi. 
 
-[Curriculum Vitae](assets/documents/cv-th.pdf)
+You can find my CV [here.](assets/documents/cv-th.pdf)
 
-## Courses I've Taken
+## Some Courses I've Taken
 
 [Introduction to Language Technology](https://studies.helsinki.fi/courses/cur/hy-opt-cur-2122-43b8f122-8ca2-453b-addd-cbfd756c3306/Introduction_to_Language_Technology_Lectures), fall 2020
 
@@ -26,4 +26,9 @@ My email address is of the form firstname.lastname@helsinki.fi.
 
 ## Projects
 
-## Misc. 
+[The one involving this webpage](https://github.com/ant1passive/ant1passive.github.io)
+
+## Misc.
+
+University of Helsinki has [a blog](https://blogs.helsinki.fi/language-technology/) on language technology.
+
