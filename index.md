@@ -4,7 +4,7 @@ layout: default
 
 ## Hi,
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Tahvo Havia and I'm an undergraduate language technology student at the University of Helsinki. This web page documents things I've worked on, including some university courses. 
+<img src="assets/images/selfie.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Tahvo Havia and I'm an undergraduate language technology student at the University of Helsinki. This web page documents things I've worked on, including some university courses. 
 
 Even though this page is now mostly about linguistics, my Bachelor's degree will be a BSc in mathematics, due to courses already taken. I have work history in building measurement instruments, thanks to a job I got when I was fresh out of watchmaking school. (Yes, yet another academic garden path.)
 
