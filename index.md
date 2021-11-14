@@ -2,26 +2,33 @@
 layout: default
 ---
 
-## Introduction
+## Hi,
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Tahvo Havia and I'm an undergraduate language technology student at the University of Helsinki. This web page documents things I've worked on, including some university courses. 
+
+Even though this page is now mostly about linguistics, my Bachelor's degree will be a BSc in mathematics, due to courses already taken. I have work history in building measurement instruments, thanks to a job I got when I was fresh out of watchmaking school. (Yes, yet another academic garden path.)
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[LinkedIn](https://www.linkedin.com/in/tahvo-havia-87404994), [GitHub](https://github.com/ant1passive)
 
-## Contact
+## Contact & CV
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is of the form firstname.lastname@helsinki.fi. 
 
-## Courses I've Taken
+You can find my CV [here.](assets/documents/cv-th.pdf)
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+## Some Courses I've Taken
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Introduction to Language Technology](https://studies.helsinki.fi/courses/cur/hy-opt-cur-2122-43b8f122-8ca2-453b-addd-cbfd756c3306/Introduction_to_Language_Technology_Lectures), fall 2020
+
+[Command-Line Tools for Linguists](https://studies.helsinki.fi/courses/cur/hy-opt-cur-2122-261401a1-c550-4436-91b9-7edf4a1a3b57/Command_Line_Tools_for_Linguists_exercise_session_Lectures), fall 2021
 
 ## Projects
 
-## Misc. 
+[The one involving this webpage](https://github.com/ant1passive/ant1passive.github.io)
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+## Misc.
+
+University of Helsinki has [a blog](https://blogs.helsinki.fi/language-technology/) on language technology.
+
